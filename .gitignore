@@ -1,0 +1,9 @@
+/node_modules/
+/.idea/vcs.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/package-lock.json
+/package.json
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/Data collection.iml
+/.idea/inspectionProfiles/Project_Default.xml

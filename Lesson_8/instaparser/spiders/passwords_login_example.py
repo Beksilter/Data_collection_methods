@@ -1,0 +1,5 @@
+user_login = 'UrLogin'
+posts_hash = ''
+followers_hash = ''
+following_hash = ''
+insta_pwd= '#PWD_INSTAGRAM_BROWSER:10:****'
